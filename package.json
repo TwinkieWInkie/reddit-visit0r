@@ -1,0 +1,12 @@
+{
+  "name": "redit-visit0r",
+  "version": "0.0.1",
+  "description": "Visits reddit pages of a specific subreddit with discordapp.com as referer",
+  "main": "index.js",
+  "author": "twinkiewinkie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "puppeteer": "^1.4.0"
+  }
+}
